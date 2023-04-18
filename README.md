@@ -1,5 +1,5 @@
 
-#Proyecto Login clon de Instagram, usando HTML5, CSS3, MaterializeCSS y Javascript
+<h2> Proyecto Login clon de Instagram, usando HTML5, CSS3, MaterializeCSS y Javascript </h2>
 
 
 <p align="center">
